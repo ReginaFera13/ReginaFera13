@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full-stack development with CodePlatoon**
 
-- 📫 How to reach me **shawnmarie1997@yahoo.com**
+- 📫 How to reach me **shawnmariesmith@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
