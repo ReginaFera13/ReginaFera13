@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **shawnmariesmith@icloud.com**
 
+- 👨‍💻 All of my projects are available at [https://shawn-smith-portfolio.onrender.com/](https://shawn-smith-portfolio.onrender.com/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shawn-smith-software-engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shawn-smith-28abab210" height="30" width="40" /></a>
