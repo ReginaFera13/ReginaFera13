@@ -9,7 +9,7 @@
 
 <p align="center"> - 📫 How to reach me **shawnmariesmith@icloud.com** </p>
 
-<p align="center"> - 👨‍💻 All of my projects are available at [https://shawn-smith-portfolio.onrender.com/](https://shawn-smith-portfolio.onrender.com/) </p>
+<p align="center"> - 👨‍💻 All of my projects are available on my <a href="https://shawn-smith-portfolio.onrender.com/">portfolio</a> </p> 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
