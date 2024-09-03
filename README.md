@@ -5,9 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reginafera13&row=2&column=3&theme=radical&no-frame=true&no-bg=true" alt="reginafera13" /></a> </p>
 
-<p align="center"> - 🌱 I’m currently learning **TypeScript and Redux** </p>
+<p align="center"> - 🌱 I’m currently learning <strong>TypeScript and Redux</strong></p>
 
-<p align="center"> - 📫 How to reach me **shawnmariesmith@icloud.com** </p>
+<p align="center"> - 📫 How to reach me <strong>shawnmariesmith@icloud.com</strong></p>
 
 <p align="center"> - 👨‍💻 All of my projects are available on my <a href="https://shawn-smith-portfolio.onrender.com/">portfolio</a> </p> 
 
